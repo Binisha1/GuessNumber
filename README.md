@@ -1,4 +1,13 @@
-# Welcome to your Expo app 👋
+# Screenshots of Guess number
+
+<img src="https://github.com/user-attachments/assets/61cec793-b747-4b04-9e56-c64ce88b2a02"width="300">
+
+<img src="https://github.com/user-attachments/assets/62cac2ce-a563-466f-8cfe-ed135a672e05"width="300">
+
+<img src="https://github.com/user-attachments/assets/7c2eb6d8-8948-4690-9bc2-bc87d44cc17a"width="300">
+
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
